@@ -1,2 +1,7 @@
-# Blinkit-Sales-Analysis-
-This project focuses on analyzing sales data from Blink, a retail e-commerce platform, using Python to uncover meaningful business insights. The data consists of product-level sales records across various outlets, with features like item type, fat content, outlet establishment year, and total sales
+# Blinkit-Sales-Analysis Using Python-
+## Project Objective
+ This project analyzes Blink's retail sales data using Python to uncover business insights.
+Pandas, Matplotlib, and Seaborn were used to explore trends, performance, and product-sales relationships.
+The analysis was performed in Google Colab for efficient processing, visualization, and sharing.
+
+
