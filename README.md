@@ -17,6 +17,7 @@ The analysis was performed in Google Colab for efficient processing, visualizati
 - Exploratory Data Analysis (EDA): Used Pandas, Matplotlib, and Seaborn to analyze patterns and trends.
 - Visualization: Created graphs for monthly sales trends, product categories, outlet comparisons, and more.
 - Insight Generation: Derived conclusions and business insights based on grouped data and visual evidence.
+- 
 
 
 
