@@ -10,6 +10,14 @@ The analysis was performed in Google Colab for efficient processing, visualizati
 - Outlets from 1985 and 1999 outperformed others, showing the impact of longevity and possibly location.
 - Sales performance varied significantly based on fat content and outlet combinations.
 
+- ## Process
+
+- Data Collection: Imported and explored Blink sales dataset in Google Colab.
+- Data Cleaning: Handled missing values, standardized fat content labels, and checked for consistency.
+- Exploratory Data Analysis (EDA): Used Pandas, Matplotlib, and Seaborn to analyze patterns and trends.
+- Visualization: Created graphs for monthly sales trends, product categories, outlet comparisons, and more.
+- Insight Generation: Derived conclusions and business insights based on grouped data and visual evidence.
+
 
 
 
