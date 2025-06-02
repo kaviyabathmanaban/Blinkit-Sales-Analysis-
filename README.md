@@ -25,7 +25,7 @@ The analysis was performed in Google Colab for efficient processing, visualizati
 - Item visibility and availability should be optimized around high-performing combinations of item type and outlet location.
  ## ✅ Final Conclusion
 
-The Blink Sales Analyst Project demonstrates how data-driven analysis can uncover meaningful patterns in retail sales. By leveraging Python tools, we identified high-performing product categories, outlet trends, and consumer preferences. These insights can help Blink optimize its sales strategy, marketing efforts, and operational planning to drive continued business growth
+The Blink Sales Analyst Project demonstrates how data-driven analysis can uncover meaningful patterns in retail sales. By leveraging Python tools, we identified high-performing product categories, outlet trends, and consumer preferences. These insights can help Blink optimize its sales strategy, marketing efforts, and operational planning to drive continued business growth 
 
 
 
